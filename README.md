@@ -9,7 +9,7 @@ Mail: jeff124790659@gmail.com
 Linkedin: https://www.linkedin.com/in/ccchen0820/  
 <!--
 **CCChen19990820/CCChen19990820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!-- 
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
- -->
