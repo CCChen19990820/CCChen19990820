@@ -5,8 +5,8 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=CCChen19990820&show_icons=true)
 
 ### Personal information
-Mail: jeff124790659@gmail.com  
-Linkedin: https://www.linkedin.com/in/ccchen0820/  
+📗Mail: jeff124790659@gmail.com  
+📙Linkedin: https://www.linkedin.com/in/ccchen0820/  
 <!--
 **CCChen19990820/CCChen19990820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
